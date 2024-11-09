@@ -1,5 +1,5 @@
 ## What is this?
-This repository contains stubs files for the Cheshire Cat AI framework necessary for autocomplete feature in VSCode
+This repository contains stubs files for the Cheshire Cat AI framework, necessary for autocomplete feature in VSCode
 
 ## How to use it?
 In the folder containing the `compose.yml` file, run:
