@@ -17,4 +17,5 @@ Then, inside the `.vscode/settings.json` file, add:
 }
 ```
 
-Now, autocomplete in VSCode should work properly.
+Now, autocomplete in VSCode should work properly:
+![autocomplete](https://github.com/user-attachments/assets/90d70f2b-9a99-416b-9d94-408fe81cb112)
