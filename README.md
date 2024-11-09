@@ -3,7 +3,9 @@ This repo contains stubs files for Cheshire Cat AI framework
 
 ## How to use?
 In the folder where there is the `compose.yml` file, run:
-`git clone https://github.com/sambarza/cc-cheshire-cat-ai-stubs.git typings` 
+```shell
+git clone https://github.com/sambarza/cc-cheshire-cat-ai-stubs.git typings
+``` 
 
 Inside the `.vscode/settings.json` file put:
 ``` json
