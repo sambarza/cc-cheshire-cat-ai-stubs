@@ -1,0 +1,6 @@
+def is_jwt(token: str) -> bool:
+    """
+    Returns whether a given string is a JWT.
+    """
+def hash_password(password: str) -> str: ...
+def check_password(password: str, hashed: str) -> bool: ...

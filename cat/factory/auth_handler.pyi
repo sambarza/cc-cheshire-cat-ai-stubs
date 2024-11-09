@@ -1,0 +1,13 @@
+from _typeshed import Incomplete
+from pydantic import BaseModel
+
+class AuthHandlerConfig(BaseModel):
+    @classmethod
+    def get_auth_handler_from_config(cls, config): ...
+
+class CoreOnlyAuthConfig(AuthHandlerConfig):
+    model_config: Incomplete
+
+def get_allowed_auth_handler_strategies(): ...
+def get_auth_handlers_schemas(): ...
+def get_auth_handler_from_name(name): ...

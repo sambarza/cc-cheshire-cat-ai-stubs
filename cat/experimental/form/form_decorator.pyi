@@ -1,0 +1,3 @@
+from .cat_form import CatForm as CatForm
+
+def form(Form: CatForm) -> CatForm: ...
