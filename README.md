@@ -24,5 +24,8 @@ Then, inside the `.vscode/settings.json` file, add:
 }
 ```
 
+Like this:
+![image](https://github.com/user-attachments/assets/043bcd79-b99f-429e-b45a-a0bd9640815d)
+
 Now, autocomplete in VSCode should work properly:
 ![autocomplete](https://github.com/user-attachments/assets/90d70f2b-9a99-416b-9d94-408fe81cb112)
