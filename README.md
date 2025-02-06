@@ -2,6 +2,13 @@
 This repository contains stubs files for the Cheshire Cat AI framework, necessary for autocomplete feature in VSCode
 
 ## How to use it?
+The parameters in your functions must be type annotated, example:
+``` python
+@tool
+def hello_world(cat: StrayCat):
+    ...
+```
+
 In the folder containing the `compose.yml` file, run:
 ```bash
 git clone https://github.com/sambarza/cc-cheshire-cat-ai-stubs.git typings
